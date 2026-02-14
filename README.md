@@ -1,5 +1,5 @@
 # NodeWarden
-English：[`README_ZH.md`](./README_EN.md)
+English：[`README_EN.md`](./README_EN.md)
 
 运行在 **Cloudflare Workers** 上的 **Bitwarden 第三方服务端**。
 
